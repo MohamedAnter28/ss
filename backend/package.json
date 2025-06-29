@@ -1,0 +1,23 @@
+{
+  "name": "backend",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "@sentry/node": "^9.33.0",
+    "base64-arraybuffer": "^1.0.2",
+    "basic-auth": "^2.0.1",
+    "cors": "^2.8.5",
+    "express": "^5.1.0",
+    "express-rate-limit": "^7.5.1",
+    "joi": "^17.13.3",
+    "mongoose": "^8.16.1",
+    "multer": "^2.0.1"
+  }
+}
